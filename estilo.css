@@ -1,0 +1,50 @@
+h1 {
+    color: khaki;/*COLOR*/ 
+    font-size: 50px;/*TAMAÑO DE LA LETRA*/
+    font-family: 'Pacifico', cursive; /*TIPO DE LA LETRA*/
+}
+
+h2 {
+    color: rgb(56, 165, 42);
+    font-family: 'Hubballi', cursive;
+}
+
+h3 {
+    color: rgb(0, 204, 255);
+    font-size: 25px;
+    font-family: 'BhuTuka Expanded One', cursive;
+}
+
+h4 {
+    color: blueviolet;
+    font-family: 'Sansita Swashed', cursive;
+    
+}
+
+p {
+    color: darkblue;
+   
+}
+
+.lista {
+    color: aquamarine;
+    
+}
+.parrafo1 {
+    color: fuchsia;
+    font-family: 'Dancing Script', cursive;
+    
+}
+.parrafo2 {
+    color: rosybrown;
+    font-family: 'Dancing Script', cursive;
+}
+.parrafo3 {
+    color: pink;
+    font-family: 'Dancing Script', cursive;
+   
+}
+/* selector universal, si quito lo anterior, todo es de color gris
+* {
+    color: gray;
+}*/
